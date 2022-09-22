@@ -1,0 +1,141 @@
+#total{
+	width: 100%; /*altura da página*/
+	height: auto; /*largura da página*/
+	
+}
+
+#topo{
+	width: 100%; 
+	height: 200px;
+	float: left; /*posicionamento da div*/
+}
+
+#logo{
+	width: 150px; 
+	height: 150px;
+	margin-left: 80px; /* formatação da margem esquerda*/
+	margin-top: 30px; /* formatação da margem superior*/
+	float: left;
+}
+	
+#menu{
+	width: 400px; 
+	height: 50px;
+	float: right;
+	margin-right: 130px;
+	margin-top: 90px;
+	
+}
+
+#menu a{
+	text-decoration: none;
+	font-family: Arial 14;
+	padding: 15px;
+	color:#6C3F1F;
+}
+
+#menu a:hover{
+	background-color: #6C3F1F;
+	color:#FFF;
+	
+}
+
+#banner{
+	width: 1886px;
+	height: 780px;
+	float: left;
+	
+}
+
+#conteudo{
+	width: 100%;
+	height: auto;
+	float: left;
+	
+}
+
+#h1{
+	font-family: 'Sacramento', cursive;
+	font-size:40px;
+	color:#6c3f1f
+
+}
+
+#c1, #c2, #c3{
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin-left: 150px;
+	
+}
+
+#c1 img, #c2 img, #c3 img{
+	border-radius: 100%;
+	border: solid 7px #ec0f08;
+}
+
+#local{
+	width: 100%;
+	height: 550px;
+	float: left;
+	margin-top: 30px;
+	
+	
+}
+
+#mapa{
+	width: 500 px;
+	height: 500px;
+	margin-left: 150px;
+	float: left;
+	
+	
+}
+
+#txtLocal{
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin-left:200px;
+	
+}
+
+p{
+	font-family: 'Bad Script', cursive;
+	font-size: 20px;
+	color: #6c3f1f;
+	
+}
+#quemsomos{
+	width: 100%;
+	height: 500px;
+	float: left;
+	
+}
+#textoqs{
+	width: 300px;
+	height: 380px;
+	float: left;
+	margin-left:250px;
+	
+}
+#imgqs{
+	width: 400px;
+	height: 400px;
+	float: left;
+}
+
+
+#rodape{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background-color: #6c3f1f;
+	
+}
+
+	
+
+	
+
+

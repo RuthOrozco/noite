@@ -1,0 +1,58 @@
+<html>
+<head>
+	<title> Mulheres Tech Flores </title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<style>
+	@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+	</style>
+<head>
+
+<body>
+
+	<div id="total">
+		
+		<div id="topo">
+			<div id="logo">
+				<img src="img/logo.png" width="200" height="100">
+			</div>
+			
+			<div id="menu">
+			<a href="index.html">Home</a>
+			<a href="quemsomos.html"> Quem Somos </a>
+			<a href="#"> Serviços </a>
+			<a href="#"> Contato </a>
+			</div>
+		</div>
+		
+		
+		
+		<div id="quemsomos">
+				
+		<div id="textoqs">
+		     <p>
+			 Nosso Propósito é florir o mundo com muitas
+			 cores e amores.
+			 </p>
+			 <p style="font-family:vedana; font-weight: none;font-size: 14px;line-height:25px color: #6c3f1f;">
+			 Cultivar emoções e eternizar datas importantes comercializando flores, cestas e presentes que atendas as expectativas e desejo dos clientes com responsabilidades, garantindo a qualidades com anteção.
+			 
+			 </p>
+			 
+		</div>
+		
+		<div id="imgqs">
+		     <img src="img/flores1.jpg" width="400" height "400">
+		</div>
+		
+		</div>
+		
+		
+			
+				
+		
+		
+		<div id="rodape">
+		</div>		
+    </div>
+</body>
+</html>
